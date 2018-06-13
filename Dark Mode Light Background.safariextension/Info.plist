@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Kevin Mangan</string>
+	<key>Builder Version</key>
+	<string>14606.1.17.40.4</string>
+	<key>CFBundleDisplayName</key>
+	<string>Dark Mode Light Back</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kevinmangan.darkmodelightbackground</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>fff.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>Just adds a white background to any page that doesn't set a default color.</string>
+	<key>DeveloperIdentifier</key>
+	<string>P63CQ66R78</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
