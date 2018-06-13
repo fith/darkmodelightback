@@ -9,7 +9,7 @@ Dark Mode Safari's default background color is dark gray, so dark text becomes u
 
 1. Download or clone this repo.
 2. Enable Safari's Developer Tools — https://developer.apple.com/safari/tools/
-3. Open menu: Develop > Show Extension Builder.
+3. In Safari, open the menu: Develop > Show Extension Builder.
 4. Click the [+] button in the lower left of the Extension Builder, and choose "Add Extension."
 5. Navigate to where you cloned or downloaded this repo, and select the "Dark Mode Light Background.safariextension" folder. 
 (You should see the extension loaded in the Extension Builder.)
