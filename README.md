@@ -5,6 +5,8 @@ This simple Safari extension adds a default white background color.
 Many websites don't specify a background color, and rely on the browser to default to white. 
 Dark Mode Safari's default background color is dark gray, so dark text becomes unreadable.
 
+Example: https://github.com/fith/darkmodelightback/blob/master/Assets/screenshot.png?raw=true
+
 ## Installation
 
 1. Download or clone this repo.
