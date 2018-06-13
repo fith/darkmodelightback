@@ -1,4 +1,4 @@
-# Dark Mode Light Back
+# Dark Mode Light Back — Safari Extension
 
 This simple Safari extension adds a default white background color.
 
