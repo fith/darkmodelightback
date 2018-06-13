@@ -1,4 +1,4 @@
-# darkmodelightback
+# Dark Mode Light Back
 
 This simple Safari extension adds a default white background color.
 
