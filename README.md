@@ -1,3 +1,6 @@
+# Depricated — Apple fixed this bug. You don't need this.
+
+
 # Dark Mode Light Back — Safari Extension
 
 This simple Safari extension adds a default white background color.
